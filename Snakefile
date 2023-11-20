@@ -1,3 +1,5 @@
+#Creating workflow, refer to readme for link to tutorial if interested!
+
 rule all:
     input:
         "plots/quals.svg"
